@@ -1,0 +1,35 @@
+# Data files (too large for GitHub)
+data/
+*.tgz
+*.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights (if any)
+*.pth
+*.pt
+*.h5
